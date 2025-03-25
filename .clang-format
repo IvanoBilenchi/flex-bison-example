@@ -1,0 +1,16 @@
+BasedOnStyle: LLVM
+AllowShortBlocksOnASingleLine: Empty
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortLoopsOnASingleLine: true
+ColumnLimit: 100
+Cpp11BracedListStyle: false
+IndentCaseLabels: true
+IndentWidth: 4
+PenaltyBreakAssignment: 100
+PenaltyBreakBeforeFirstCallParameter: 100
+PenaltyBreakOpenParenthesis: 100
+PenaltyExcessCharacter: 1000
+PenaltyIndentedWhitespace: 1
+PenaltyReturnTypeOnItsOwnLine: 0

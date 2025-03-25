@@ -1,0 +1,7 @@
+---
+Diagnostics:
+  MissingIncludes: Strict
+  Includes:
+    IgnoreHeader:
+      - /_[^/]+\.h$
+      - ^_[^/]+\.h$
